@@ -8,4 +8,5 @@ Matthias Claudius
 
 ## Lyrics
 | German | English | French |
+| ------------- |:-------------:| -----:|
 | lappen | cloth | idk |
