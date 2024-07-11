@@ -7,13 +7,10 @@ Matthias Claudius
 [Spotify]([https://www.example.com](https://open.spotify.com/track/6NLQPlpc5UFhd2SSOYFBeM?si=766900fe3f254d9c))
 
 ## Lyrics
-{|
-|-
-!Text from ''Musen Almanach'' (1779)<ref name=Asmus />
-!English translation by Margarete Münsterberg<ref>{{cite book |editor1-last=Münsterberg |editor1-first=Margarete |title=A Harvest of German Verse |url=https://www.bartleby.com/177/27.html |date=1916}}</ref>
-|-
+| German | English |
+| --- | --- |
 |
-<poem lang="de">Der Mond ist aufgegangen
+Der Mond ist aufgegangen
 Die goldnen Sternlein prangen
 Am Himmel hell und klar:
 Der Wald steht schwarz und schweiget,
@@ -60,9 +57,9 @@ In Gottes Namen nieder!
 Kalt ist der Abendhauch.
 Verschon' uns Gott mit Strafen,
 Und laß uns ruhig schlafen,
-Und unsern kranken Nachbar<!--sic--> auch!</poem>
+Und unsern kranken Nachbar
 |
-<poem>The moon is risen, beaming,	
+The moon is risen, beaming,	
 The golden stars are gleaming	
 So brightly in the skies;	
 The hushed, black woods are dreaming,	
@@ -110,4 +107,4 @@ How cold the night-wind blew!
 Oh God, Thine anger keeping,	
 Now grant us peaceful sleeping,	
 And our sick neighbour too.</poem>
-|}
+|
