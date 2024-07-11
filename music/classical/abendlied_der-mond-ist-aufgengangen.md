@@ -1,111 +1,19 @@
-# Abendlied
+# Abendlied (Evening Song)
+
 ## Composer
-Matthias Claudius
-(1740-1815)
+Matthias Claudius (1740-1815)
 
 ## Link
-[Spotify]([https://www.example.com](https://open.spotify.com/track/6NLQPlpc5UFhd2SSOYFBeM?si=766900fe3f254d9c))
+[Spotify](https://open.spotify.com/track/6NLQPlpc5UFhd2SSOYFBeM?si=766900fe3f254d9c)
 
 ## Lyrics
-| German | English |
-| --- | --- |
-|
-Der Mond ist aufgegangen
-Die goldnen Sternlein prangen
-Am Himmel hell und klar:
-Der Wald steht schwarz und schweiget,
-Und aus den Wiesen steiget
-Der weiße Nebel wunderbar.
 
-Wie ist die Welt so stille,
-Und in der Dämmrung Hülle
-So traulich und so hold!
-Als eine stille Kammer,
-Wo ihr des Tages Jammer
-Verschlafen und vergessen sollt.
-
-Seht ihr den Mond dort stehen?
-Er ist nur halb zu sehen,
-Und ist doch rund und schön.
-So sind wohl manche Sachen,
-Die wir getrost belachen,
-Weil unsre Augen sie nicht sehn.
-
-Wir stolze Menschenkinder
-Sind eitel arme Sünder,
-Und wissen gar nicht viel;
-Wir spinnen Luftgespinste,
-Und suchen viele Künste,
-Und kommen weiter von dem Ziel.
-
-Gott, laß uns dein Heil schauen,
-Auf nichts vergänglichs trauen,
-Nicht Eitelkeit uns freun!
-Laß uns einfältig werden,
-Und vor dir hier auf Erden
-Wie Kinder fromm und fröhlich sein!
-
-Wollst endlich sonder Grämen
-Aus dieser Welt uns nehmen
-Durch einen sanften Tod,
-Und wenn du uns genommen,
-Laß uns in Himmel kommen,
-Du lieber treuer frommer Gott!
-
-So legt euch denn, ihr Brüder,
-In Gottes Namen nieder!
-Kalt ist der Abendhauch.
-Verschon' uns Gott mit Strafen,
-Und laß uns ruhig schlafen,
-Und unsern kranken Nachbar
-
-|
-The moon is risen, beaming,	
-The golden stars are gleaming	
-So brightly in the skies;	
-The hushed, black woods are dreaming,	
-The mists, like phantoms seeming,	 
-From meadows magically rise.	
- 
-How still the world reposes,	
-While twilight round it closes,	
-So peaceful and so fair!	
-A quiet room for sleeping,	 
-Into oblivion steeping	
-The day’s distress and sober care.	
- 
-Look at the moon so lonely!	
-One half is shining only,	
-Yet she is round and bright;	
-Thus oft we laugh unknowing	
-At things that are not showing,	
-That still are hidden from our sight.	
- 
-We, with our proud endeavour,	
-Are poor vain sinners ever,	
-There’s little that we know.	
-Frail cobwebs we are spinning,	
-Our goal we are not winning,	
-But straying farther as we go.	
- 
-God, make us see Thy glory,	
-Distrust things transitory,	
-Delight in nothing vain!	
-Lord, here on earth stand by us,	
-To make us glad and pious,	
-And artless children once again!	 
- 
-Grant that, without much grieving,	
-This world we may be leaving	
-In gentle death at last.	
-And then do not forsake us,	
-But into heaven take us,	 
-Lord God, oh, hold us fast!	
- 
-Lie down, my friends, reposing,	
-Your eyes in God’s name closing.	
-How cold the night-wind blew!	
-Oh God, Thine anger keeping,	
-Now grant us peaceful sleeping,	
-And our sick neighbour too.</poem>
-|
+| German                                                                                                                                                                                                                                                                                                                                           | English                                                                                                                                                                                                                                                                                                                                          |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Der Mond ist aufgegangen<br>Die goldnen Sternlein prangen<br>Am Himmel hell und klar:<br>Der Wald steht schwarz und schweiget,<br>Und aus den Wiesen steiget<br>Der weiße Nebel wunderbar.                                                                                                                                               | The moon is risen, beaming,<br>The golden stars are gleaming<br>So brightly in the skies;<br>The hushed, black woods are dreaming,<br>The mists, like phantoms seeming,<br>From meadows magically rise.                                                                                                                                |
+| Wie ist die Welt so stille,<br>Und in der Dämmrung Hülle<br>So traulich und so hold!<br>Als eine stille Kammer,<br>Wo ihr des Tages Jammer<br>Verschlafen und vergessen sollt.                                                                                                                                                    | How still the world reposes,<br>While twilight round it closes,<br>So peaceful and so fair!<br>A quiet room for sleeping,<br>Into oblivion steeping<br>The day’s distress and sober care.                                                                                                                                     |
+| Seht ihr den Mond dort stehen?<br>Er ist nur halb zu sehen,<br>Und ist doch rund und schön.<br>So sind wohl manche Sachen,<br>Die wir getrost belachen,<br>Weil unsre Augen sie nicht sehn.                                                                                                                                             | Look at the moon so lonely!<br>One half is shining only,<br>Yet she is round and bright;<br>Thus oft we laugh unknowing<br>At things that are not showing,<br>That still are hidden from our sight.                                                                                                                                  |
+| Wir stolze Menschenkinder<br>Sind eitel arme Sünder,<br>Und wissen gar nicht viel;<br>Wir spinnen Luftgespinste,<br>Und suchen viele Künste,<br>Und kommen weiter von dem Ziel.                                                                                                                                                    | We, with our proud endeavor,<br>Are poor vain sinners ever,<br>There’s little that we know.<br>Frail cobwebs we are spinning,<br>Our goal we are not winning,<br>But straying farther as we go.                                                                                                                                     |
+| Gott, laß uns dein Heil schauen,<br>Auf nichts vergänglichs trauen,<br>Nicht Eitelkeit uns freun!<br>Laß uns einfältig werden,<br>Und vor dir hier auf Erden<br>Wie Kinder fromm und fröhlich sein!                                                                                                                                     | God, make us see Thy glory,<br>Distrust things transitory,<br>Delight in nothing vain!<br>Lord, here on earth stand by us,<br>To make us glad and pious,<br>And artless children once again!                                                                                                                                      |
+| Wollst endlich sonder Grämen<br>Aus dieser Welt uns nehmen<br>Durch einen sanften Tod,<br>Und wenn du uns genommen,<br>Laß uns in Himmel kommen,<br>Du lieber treuer frommer Gott!                                                                                                                                                  | Grant that, without much grieving,<br>This world we may be leaving<br>In gentle death at last.<br>And then do not forsake us,<br>But into heaven take us,<br>Lord God, oh, hold us fast!                                                                                                                                      |
+| So legt euch denn, ihr Brüder,<br>In Gottes Namen nieder!<br>Kalt ist der Abendhauch.<br>Verschon' uns Gott mit Strafen,<br>Und laß uns ruhig schlafen,<br>Und unsern kranken Nachbar | Lie down, my friends, reposing,<br>Your eyes in God’s name closing.<br>How cold the night-wind blew!<br>Oh God, Thine anger keeping,<br>Now grant us peaceful sleeping,<br>And our sick neighbour too.                                                                                                                                 |
