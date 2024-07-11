@@ -31,7 +31,7 @@ So sind wohl manche Sachen,
 Die wir getrost belachen,
 Weil unsre Augen sie nicht sehn.
 
-Wir stolze<!--sic--> Menschenkinder
+Wir stolze Menschenkinder
 Sind eitel arme Sünder,
 Und wissen gar nicht viel;
 Wir spinnen Luftgespinste,
@@ -58,6 +58,7 @@ Kalt ist der Abendhauch.
 Verschon' uns Gott mit Strafen,
 Und laß uns ruhig schlafen,
 Und unsern kranken Nachbar
+
 |
 The moon is risen, beaming,	
 The golden stars are gleaming	
